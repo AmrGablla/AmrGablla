@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  Rology<br>👯 I'm looking to collaborate on HealthCare Digitalization and web3<br>🤝 I’m looking for help with BlockChain<br>🌱 I’m currently learning BlockChain<br>💬 Ask me about NodeJs<br>⚡ Fun fact I'm Egyption
+🔭 I’m currently working on  Rology<br>👯 I'm looking to collaborate on HealthCare Digitalization and web3<br>🤝 I’m looking for help with BlockChain<br>🌱 I’m currently learning BlockChain<br>💬 Ask me about NodeJs<br>
 
 
 ## 🌐 Socials:
